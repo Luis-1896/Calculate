@@ -10,22 +10,12 @@ import { Component, Input, input } from '@angular/core';
 })
 export class InvestmentResultsComponent {
   // signals
-  // results = input<{
-  //   year: number;
-  //   interest: number;
-  //   valueEndOfYear: number;
-  //   annualInvestment: number;
-  //   totalInterest: number;
-  //   totalAmountInvested: number;
-  // }[]>();
-
-  // ? optional ! shape results
-  @Input() results?: {
+  results = input<{
     year: number;
     interest: number;
     valueEndOfYear: number;
     annualInvestment: number;
     totalInterest: number;
     totalAmountInvested: number;
-  }[];
+  }[]>();
 }
