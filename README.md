@@ -1,4 +1,8 @@
-# EssentialsPractice
+# Investment Calculate with Service
+
+This branch i created a service to share the information between the components
+
+NOTE: Don't merge with the master branch, only this branch is code other form to share the information between components
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
