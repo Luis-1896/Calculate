@@ -1,4 +1,8 @@
-# EssentialsPractice
+# Investment Calculate with Signals and Service
+
+This branch I implemented the properties of signals to put some datas and share with the service
+
+NOTE: Don't merge with the master branch or other of this repository
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
