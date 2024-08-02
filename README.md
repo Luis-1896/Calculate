@@ -1,4 +1,11 @@
-# EssentialsPractice
+# Investment Calculate
+
+This project is a Investment calculate in the master branch I have the principal code and the other branches I implemented differents concepts in Angular like:
+Signals
+Service
+Modules
+
+NOTE: Don't merge other branches with this branch or between other
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
