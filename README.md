@@ -1,4 +1,8 @@
-# EssentialsPractice
+# Investment Calculate with Modules
+
+I created this branch to show like show it project with modules, angular less v16, so I implemented a module principal in the app component and other module in user component after i invocate this module in the principal module.
+
+NOTE: Don´t merge this branch with master or other branch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
