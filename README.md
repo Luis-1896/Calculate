@@ -1,4 +1,7 @@
-# EssentialsPractice
+# Investment Calculate with signals
+With this branch we implemented the signals properties like input() and output() to share the information between the components.
+
+Note: Don´t merge with master branch because, in master branch we don´t use signals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
